@@ -660,7 +660,7 @@ Command-line monitoring is especially valuable because engineers can use it dire
 
 ---
 
-## 💡 DevOps Tip
+## 💡♾️ DevOps Tip 
 
 > 🚨 **When a production server has a problem, don't immediately restart it. First collect evidence.**
 
