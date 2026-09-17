@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="44512231-e61b-4662-9bbf-1535bb253fed" src="https://github.com/user-attachments/assets/91d1cdaf-3bc0-4fad-8c3a-494f4e687f3f" />
+
+
 # 🚀 Linux Boot Process, System Initialization & Troubleshooting
 
 Understanding how Linux starts, initializes system components, and handles services is an essential skill for **Linux Administration, DevOps, Cloud Engineering, SRE, and Infrastructure Operations**.
@@ -47,7 +50,7 @@ Login / Applications
 12. [Common Linux Troubleshooting Commands](#-common-linux-troubleshooting-commands)
 13. [Real-World Troubleshooting Scenarios](#-real-world-troubleshooting-scenarios)
 14. [DevOps & Cloud Relevance](#-devops--cloud-relevance)
-15. [Interview Questions](#-interview-questions)
+15. [Remember Through Questions](#-interview-questions)
 16. [Key Takeaways](#-key-takeaways)
 
 ---
@@ -63,7 +66,7 @@ Hardware
    ↓
 BIOS / UEFI
    ↓
-GRUB
+ GRUB
    ↓
 Linux Kernel
    ↓
@@ -787,15 +790,15 @@ Follow the layers:
 ```text
 Application
     ↓
-Service
+ Service
     ↓
-Port
+  Port
     ↓
 Firewall
     ↓
 Network Interface
     ↓
-Route
+  Route
     ↓
 Cloud Security Controls
 ```
@@ -947,13 +950,13 @@ A simplified sequence is:
 ```text
 BIOS / UEFI
      ↓
-GRUB
+   GRUB
      ↓
-Kernel
+   Kernel
      ↓
-systemd
+  systemd
      ↓
-Services
+  Services
      ↓
 Login / Applications
 ```
@@ -1090,3 +1093,12 @@ When you understand this flow, you can approach Linux problems systematically in
 > **Understand the architecture → Collect evidence → Analyze logs → Identify the root cause → Fix → Verify.**
 
 This mindset is valuable for **Linux Administration, DevOps, Cloud Engineering, SRE, and Production Infrastructure**.
+
+
+
+
+
+
+
+
+
