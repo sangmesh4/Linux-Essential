@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="94b66d8e-05b4-4c24-bc27-5e9ff01fa158" src="https://github.com/user-attachments/assets/b5a38ec4-7c59-422f-a976-a2c9ae1ee977" />
+
+
 # ❓ Linux FAQs for DevOps & Cloud
 
 Linux is one of the most widely used operating systems in **DevOps, Cloud Computing, SRE, Kubernetes, Docker, CI/CD, and production infrastructure**.
